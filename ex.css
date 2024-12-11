@@ -1,0 +1,22 @@
+.bg-image {
+    background-image: url("codingbg.png");
+    background-size: cover;
+    height: 100vh;
+    padding: 25px;
+}
+
+
+.container {
+    background-color: #00000080; /* Semi-transparent black */
+    border-style: solid;
+    border-width: 10px;
+    border-color: #48ee59;  
+    padding: 40px;
+}
+
+
+.content {
+    color: white;
+    font-weight: 'Bree Serif';
+    font-size: 40px;
+}
