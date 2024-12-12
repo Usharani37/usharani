@@ -1,0 +1,27 @@
+.bg-image {
+    background-image: url("img.jfif");
+    background-size: cover;
+    height: 100vh;
+    padding: 25px;
+}
+.container {
+    background-color: #f6c56e;
+    padding: 15px;
+    border-top-left-radius: 10px; 
+}
+.heading{
+    font-family: "times new roman";
+}
+.paragraph{
+    font-family: "Robot";
+     font-weight: bolder;
+}
+.button{
+    background-color:#ffffff ;
+    border-style: solid;
+    height: 38px;
+    width: 130px;
+    border-radius: 10px;
+    border-width: 10px;
+}
+
