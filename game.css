@@ -1,0 +1,40 @@
+.bg-image {
+    background-image: url("game.jfif");
+    background-size: cover;
+    height: 100vh;
+}
+.container {
+    background-color: #ffffffff;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px; 
+}
+.heading{
+    color: #5752ab;
+    font-size: 35px;
+    text-align: center;
+    font-family: "times new roman";
+    font-weight: bolder;
+    padding: 10px;
+}
+.caption{
+    font-family: "Robot";
+    color: #323f4b;
+    text-align: center;
+    padding: 10px;
+}
+.button1{
+    height: 40px;
+    width: 130px;
+    background-color: #ffffffff;
+    border-color: #d7dfe9;
+    border-radius: 8px;
+}
+.button2{
+    color: #ffffffff;
+    height: 40px;
+    width: 130px;
+    background-color:#5752ab;
+    border-color: #d7dfe9;
+    border-radius: 8px;
+}
+
