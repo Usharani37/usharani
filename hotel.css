@@ -1,0 +1,42 @@
+.bg-image {
+    background-image: url("hotel.png");
+    background-size: cover;
+    height: 100vh;
+}
+.card-container {
+    background-color: #000000e6;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px; 
+}
+.main-heading{
+    color: #d7dfe9;
+    font-size: 35px;
+    text-align: center;
+    font-family: "times new roman";
+    font-weight: bolder;
+    padding: 10px;
+}
+.content{
+    font-family: "Robot";
+    color: #ffffffff;
+    padding: 10px;
+}
+.cost{
+    color:#ffffffff;
+    font-size: 38px;
+  }
+.button{
+    height: 40px;
+    width: 130px;
+    background-color:#ffffffff;
+    border-color: #d7dfe9;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-radius: 8px;
+}
+.extra{
+    text-align: center;
+}
+
